@@ -10,4 +10,6 @@ Goal : Predicting Model Evaluation Ensemble<div>
 [Face Detection]<div>
 ------------------------------<div>
 -Using Cascade Classifier, OpenCV<div>
-Goal : Finding face in video and wearing a hat image
+Goal : Finding face in video and wearing a hat image<br>
+
+![face](https://user-images.githubusercontent.com/33900239/87552776-1334d600-c6ed-11ea-897c-4fae6ec68ab6.JPG)
